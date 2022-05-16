@@ -1,31 +1,33 @@
 * {
-font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
-font-weight: bold;
-text-decoration: none;
-text-align: center;
-color:azure;
-margin: 0 auto;
-max-width: 1200px;
-padding: 10px;
-}
-
-h1 {
-    font-size: 2.75rem;
-}
-
-dl {
-    font-size: 1.25rem;
-}
-
-dt {
-    text-decoration: underline;
-    color: black;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color:azure;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 10px;
+    }
     
-}
-.wrapper {
-    background-color:#F8C8DC;
-}
+    h1 {
+        font-size: 2.75rem;
+    }
+    
+    dl {
+        font-size: 1.5rem;
+    }
+    
+    dt {
+        text-decoration: underline;
+        color: black;
+        
+    }
+    .wrapper {
+        background-color:#F8C8DC;
+    }
+    
 
-footer {
-    text-decoration: underline;
-}
+    footer {
+        text-decoration: underline;
+        font-size: 1.25rem;
+    }
